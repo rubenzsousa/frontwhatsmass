@@ -1,0 +1,20 @@
+body {
+  background-color: #202020;
+  color:#ffffff;
+  font-family: Calibri;
+  padding-left:100px;
+  padding-right:100px;
+  padding-top:10px;
+  font-family: 'Open Sans', sans-serif;
+}
+.rodape { 
+  position:absolute; 
+  bottom:0px; 
+  width:85%; 
+}
+.rodape span{
+  color:#FFF;
+}
+.rodape a{
+  color:#FFF;
+}
